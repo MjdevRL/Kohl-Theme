@@ -1,0 +1,28 @@
+{
+  "name": "Kohl",
+  "type": "dark",
+  "font": "Maple Mono",
+  "colors": {
+    "bg": "#151515",
+    "bg-input": "#1c1c1c",
+    "bg-raised": "#1e1e1e",
+    "bg-popup": "#282828",
+    "border": "#313131",
+    "border-strong": "#474747",
+
+    "text-strong": "#e4e4e4",
+    "text": "#d4d4d4",
+    "text-subtle": "#c4c4c4",
+    "text-muted": "#9e9e9e",
+    "icon-muted": "#444444",
+
+    "button": "#282828",
+    "button-primary": "#363636",
+    "button-hover": "#4a4a4a",
+
+    "green": "#b5b96e",
+    "yellow": "#e7c37c",
+    "red": "#d86f5e",
+    "red-dark": "#ae4f44"
+  }
+}

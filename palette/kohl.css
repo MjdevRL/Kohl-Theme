@@ -1,0 +1,35 @@
+:root {
+  /* Backgrounds */
+  --kohl-bg: #151515;
+  --kohl-bg-input: #1c1c1c;
+  --kohl-bg-raised: #1e1e1e;
+  --kohl-bg-popup: #282828;
+
+  /* Borders */
+  --kohl-border: #313131;
+  --kohl-border-strong: #474747;
+
+  /* Text */
+  --kohl-text-strong: #e4e4e4;
+  --kohl-text: #d4d4d4;
+  --kohl-text-subtle: #c4c4c4;
+  --kohl-text-muted: #9e9e9e;
+  --kohl-icon-muted: #444444;
+
+  /* Buttons */
+  --kohl-button: #282828;
+  --kohl-button-primary: #363636;
+  --kohl-button-hover: #4a4a4a;
+
+  /* Status */
+  --kohl-green: #b5b96e;
+  --kohl-yellow: #e7c37c;
+  --kohl-red: #d86f5e;
+  --kohl-red-dark: #ae4f44;
+
+  /* Overlays */
+  --kohl-hover: rgba(228, 228, 228, 0.04);
+  --kohl-selected: rgba(228, 228, 228, 0.13);
+  --kohl-highlight: rgba(228, 228, 228, 0.1);
+  --kohl-highlight-pill: rgba(228, 228, 228, 0.18);
+}
