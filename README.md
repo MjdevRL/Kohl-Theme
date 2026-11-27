@@ -5,7 +5,7 @@ deep blacks, muted greys, and subtle earthy accents.
 
 ## Preview
 
-![Kohl Palette](assets/kohl-palette.png)
+![Kohl Palette](assets/Kohl-palette.png)
 
 ## Features
 
